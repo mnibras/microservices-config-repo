@@ -14,7 +14,7 @@ okta:
         client-id: 0oa7xmcoa1U8yeRCG5d7
         client-secret: 8FhUTcUkuldoWwA8hvEK1-HFbfd_15jZlMpde3oL
         scopes: openid, profile, email, offline_access
-		
+
 spring:
     zipkin:
         baseUrl: http://localhost:9411
